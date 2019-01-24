@@ -6,7 +6,7 @@ hash = require "hashy
 
 # Encrypt:
   hash.encrypt(str,key)
-  -- str is string data and key is string key of data to encrypt
+  -- str is string data and key is string used to encrypt data
   
   
 # Decrypt:
